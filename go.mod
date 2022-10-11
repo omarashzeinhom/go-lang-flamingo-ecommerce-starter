@@ -20,6 +20,9 @@ require (
 	github.com/gorilla/securecookie v1.1.1 // indirect
 	github.com/gorilla/sessions v1.2.0 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
+	github.com/labstack/gommon v0.0.0-20180613044413-d6898124de91 // indirect
+	github.com/mattn/go-colorable v0.1.6 // indirect
+	github.com/mattn/go-isatty v0.0.12 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
 	github.com/mpvl/unique v0.0.0-20150818121801-cbe035fff7de // indirect
 	github.com/openzipkin/zipkin-go v0.2.2 // indirect

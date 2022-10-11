@@ -1,0 +1,7 @@
+- path : /
+  name: index
+  controller: flamingo.render(tpl="index")
+
+- path : /shop
+  name: shop
+  controller: flamingo.render(tpl="shop")
