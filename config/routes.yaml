@@ -5,3 +5,7 @@
 - path : /shop
   name: shop
   controller: flamingo.render(tpl="shop")
+
+- path : /cart
+  name: cart
+  controller: flamingo.render(tpl="cart")
